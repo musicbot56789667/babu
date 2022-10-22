@@ -1,3 +1,3 @@
 #deploy
 
-Link -  https://heroku.com/deploy?template=https://github.com/KingXdOp/Machineot
+Link -  https://heroku.com/deploy?template=https://github.com/KingXdOp/MachineBot

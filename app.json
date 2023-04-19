@@ -10,7 +10,7 @@
   ],
     "env": {
         "SESSION_NAME": {
-            "description": "Pyrogram string session get it from @Session_Generator_Robot",
+            "description": "Pyrogram string session get it from t.me/VIP_STRING_ROBOT",
             "required": true
         },        
         "MONGO_URL": {

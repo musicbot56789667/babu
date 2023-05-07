@@ -17,10 +17,10 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "") 
-API_HASH = os.environ.get("API_HASH", "") 
+API_ID = "14050586"
+API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
 SESSION_NAME = os.environ.get("SESSION_NAME", "")
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://vipboy:vipboy@vipboy.hfa8bzb.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = "mongodb+srv://vipboy:vipboy@vipboy.hfa8bzb.mongodb.net/?retryWrites=true&w=majority"
 
 
 client = Client(SESSION_NAME, API_ID, API_HASH)

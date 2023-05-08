@@ -1,6 +1,7 @@
 from pyrogram import Client, filters
 import asyncio
 import random
+from pyrogram.types import *
 from pyrogram.errors import UserNotParticipant
 from pyrogram.types import ChatPermissions
 

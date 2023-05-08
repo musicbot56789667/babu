@@ -1,7 +1,6 @@
-from AnonX import app 
+from pyrogram import Client, filters
 import asyncio
 import random
-from pyrogram import Client, filters
 from pyrogram.errors import UserNotParticipant
 from pyrogram.types import ChatPermissions
 
